@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Login-app/static/css/main.92a29867.css",
+    "main.js": "/Login-app/static/js/main.494d1615.js",
+    "static/js/453.fb4c1376.chunk.js": "/Login-app/static/js/453.fb4c1376.chunk.js",
+    "index.html": "/Login-app/index.html",
+    "main.92a29867.css.map": "/Login-app/static/css/main.92a29867.css.map",
+    "main.494d1615.js.map": "/Login-app/static/js/main.494d1615.js.map",
+    "453.fb4c1376.chunk.js.map": "/Login-app/static/js/453.fb4c1376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a29867.css",
+    "static/js/main.494d1615.js"
+  ]
+}
